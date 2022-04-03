@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">kTDaggerMVVM</string>
+    <string name="search_word">Search Word ...</string>
+</resources>
